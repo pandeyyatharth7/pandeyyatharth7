@@ -138,7 +138,7 @@ python | cpp | java | c
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyyatharth7&theme=catppuccin_mocha&hide_border=true" width="46%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=pandeyyatharth7&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true" width="46%" />
 
 <h3 align="center">🏅 checkpoints &amp; certifications</h3>
 
