@@ -134,8 +134,8 @@ python | cpp | java | c
 <h3 align="center">📈 training metrics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pandeyyatharth7&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&bg_color=00000000" width="46%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyyatharth7&theme=catppuccin_mocha&hide_border=true&background=00000000" width="46%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pandeyyatharth7&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true" width="46%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyyatharth7&theme=catppuccin_mocha&hide_border=true" width="46%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
