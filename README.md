@@ -33,7 +33,7 @@ model_card:
 </td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <h3 align="center">📋 model description</h3>
 
@@ -43,7 +43,7 @@ from semantic code analysis to computational photography — and I care more<br/
 about clean inference (things that actually run) than flashy benchmarks.
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <h3 align="center">⚙️ requirements.txt</h3>
 
@@ -90,7 +90,7 @@ python | cpp | java | c
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <h3 align="center">🗂️ model_zoo — deployed checkpoints</h3>
 
@@ -129,16 +129,16 @@ python | cpp | java | c
 
 <p align="center"><sub>full changelog / weights → <a href="https://github.com/pandeyyatharth7">github.com/pandeyyatharth7</a></sub></p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <h3 align="center">📈 training metrics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pandeyyatharth7&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true" width="46%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyyatharth7&theme=catppuccin_mocha&hide_border=true" width="46%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=pandeyyatharth7&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true" width="46%" />
+<img src="https://streak-stats.demolab.com?user=pandeyyatharth7&theme=catppuccin-mocha&hide_border=true" width="46%" />
 </p>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=pandeyyatharth7&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true" width="46%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <h3 align="center">🏅 checkpoints &amp; certifications</h3>
 
@@ -161,7 +161,7 @@ python | cpp | java | c
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 <h3 align="center">🔌 API reference</h3>
 
