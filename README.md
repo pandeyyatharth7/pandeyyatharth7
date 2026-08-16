@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Yatharth 👋
 
-<!--
-**pandeyyatharth7/pandeyyatharth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year B.Tech CSE (AI & ML) student at VIT Chennai, building practical machine learning and full-stack applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **OpenReframe** — a single-image spatial reframing pipeline using Depth Anything V2 and diffusion-based inpainting
+- 🛠️ Recent projects: **AutoCodeIQ** (AI-assisted code review with Transformers/Hugging Face) and **Nexus Inventory OS** (full-stack warehouse management platform)
+- 🌱 Strong foundation in DSA, DBMS, OS, and Computer Networks
+- 💬 Ask me about PyTorch, React.js, or full-stack system design
+- 📫 Reach me at pandeyyatharth7@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Languages:** Python, C, C++, Java  
+**AI/ML:** PyTorch, TensorFlow, Hugging Face, NumPy, Pandas  
+**Web:** React.js, Node.js/Express, FastAPI, HTML, CSS, JavaScript  
+**Databases:** MySQL, SQLite  
+**Tools:** Git, GitHub, CI/CD, Jupyter, VS Code
+
+### 🔗 Connect
+[LinkedIn](https://linkedin.com/in/pandeyyatharth7) · [Email](mailto:pandeyyatharth7@gmail.com)
